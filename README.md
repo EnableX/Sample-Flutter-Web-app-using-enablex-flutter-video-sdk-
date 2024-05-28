@@ -21,7 +21,8 @@ NOTE: Supported languages: Web and mobile
 
 #### 1.1.2 Sample Flutter Client
 
-- [Clone or download this Repository](https://github.com/EnableX/One-to-One-Video-Calling-Open-Source-flutter-Application)
+* Clone or download this Repository : https://github.com/EnableX/Sample-Flutter-Web-app-using-enablex-flutter-video-sdk-.git
+
 
 #### 1.1.3 Test Application Server
 

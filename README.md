@@ -1,6 +1,6 @@
 # Sample app for flutter-web with enablex video sdk
 
-This is a Sample Flutter web App demonstrates the use of [EnableX platform Server APIs](https://developer.enablex.io/docs/references/apis/video-api/index/) and Flutter Toolkit to build 1-to-1 RTC (Real-Time Communication) Application. It allows developers to ramp up on app development by hosting on their own devices.
+This is a Sample Flutter web App demonstrates the use of [EnableX platform Server APIs](https://developer.enablex.io/docs/guides/video-guide/sample-codes/video-calling-app/#demo-application-server) and Flutter Toolkit to build 1-to-1 RTC (Real-Time Communication) Application. It allows developers to ramp up on app development by hosting on their own devices.
 
 This App creates a virtual Room on the fly hosted on the Enablex platform using REST calls and uses the Room credentials (i.e. Room Id) to connect to the virtual Room as a mobile client. The same Room credentials can be shared with others to join the same virtual Room to carry out an RTC session.
 
@@ -15,7 +15,7 @@ NOTE: Supported languages: Web and mobile
 
 #### 1.1.1 App Id and App Key
 
-- Register with EnableX [https://portal.enablex.io/cpaas/trial-sign-up/]
+- Register with EnableX [https://www.enablex.io/free-trial/]
 - Create your Application
 - Get your App ID and App Key delivered to your email
 
@@ -80,7 +80,7 @@ Note the following:
 * Application Server is created using EnableX Server API, a Rest API Service helps in provisioning, session access and post-session reporting.
 
 To know more about Server API, go to:
-https://www.enablex.io/developer/video-api/server-api
+https://developer.enablex.io/docs/guides/video-guide/sample-codes/video-calling-app/#demo-application-server
 
 ## 3. Flutter Toolkit
 
